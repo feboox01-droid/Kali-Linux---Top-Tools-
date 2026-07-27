@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐉 Kali Linux — Top Tool Per Category (2026 & Future-Ready)
+# 🐉 Kali Linux — Top Tool Per Category 
 
 ### One Tool Per Category That Will Still Matter in 2026+
 
@@ -278,7 +278,7 @@ Nmap is the industry standard network scanner and continues receiving new NSE sc
 
 ---
 
-# 🚀 Future-Proof Ranking
+# Ranking
 
 | Rank | Tool |
 |------|------|
